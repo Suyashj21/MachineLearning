@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=A-iqpbz7IDE&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO&index=8  (used Enthropy Method for split or define root node)
+
+https://www.listendata.com/2015/04/decision-tree-in-r.html  (used Gini method for split or define root node)
+
+
