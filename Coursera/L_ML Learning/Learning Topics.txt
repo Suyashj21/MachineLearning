@@ -1,0 +1,8 @@
+From  Bhavesh Bhatt: (Try to check all topics)
+1. LDA (Latent Dirichlet Allocation)
+2. Outlier Detection unsing Quantiles and other outlier topics
+3. Accuracy, Precision, Recall and F1 Score
+4. Voting Classifier
+5. Z-test, T-Test and Chi-Square in ML
+
+
